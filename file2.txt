@@ -1,1 +1,2 @@
-file2 this is a new file
+file2 this is a new file 
+line1 is added
