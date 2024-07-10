@@ -1,2 +1,6 @@
 hlooo this file is to test github 
+<<<<<<< HEAD
 hi - dev
+=======
+this is testing team
+>>>>>>> origin/master
